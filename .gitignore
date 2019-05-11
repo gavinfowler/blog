@@ -17,3 +17,6 @@ hugo.linux
 # End of https://www.gitignore.io/api/hugo
 
 .vscode
+deploy.sh
+.gitmodules
+datescript.txt

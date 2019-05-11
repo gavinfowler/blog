@@ -8,7 +8,7 @@ type: "page"
 
 I am currently a senior studying computer science at Utah State University.
 
-\[projects\]
+[Projects](/projects/)
 
 I have played many instruments but I most enjoyed playing saxophone and Euphonium.
 

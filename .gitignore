@@ -20,3 +20,4 @@ hugo.linux
 deploy.sh
 .gitmodules
 datescript.txt
+*.txt

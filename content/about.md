@@ -12,7 +12,7 @@ During this last school year I worked on the following projects:
 
 <!-- [Projects](/projects/) -->
 
-I currently work at the Space Dynamics Lab in Logan, UT as an engineering assistant. I am working on a Java web application with ExtJS on the front end. I have also assisted in helping our lead developer in using python and bash scripting.
+I currently work at the Space Dynamics Lab in Logan, UT as an engineering assistant. I am working on a Java web application with ExtJS on the front end. I have also assisted in helping our lead developer update our landing and search page in Vue.js.
 
 I participated in concert, jazz and marching band for 3 years in high school, playing saxophone, baritone, and trombone. This led to a year in the Battalion Drum and Bugle Corps playing euphonium. I have played many different instruments but my favorites have included baritone saxophone in jazz band and trombone in concert band.
 I am a fan of jazz music with some of my favorite artists/groups being: the Brecker Brothers, Tower of Power (especially Doc Kupka, who plays bari sax), and Charlie Parker.

@@ -23,3 +23,6 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# Trigger netlify build
+curl -X POST -d {} https://api.netlify.com/build_hooks/5d7bf76d8d171b0181af0a8b

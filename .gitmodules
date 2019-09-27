@@ -1,3 +1,3 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
-	url = git@github.com:gavinfowler/hyde.git
+	url = https://github.com/gavinfowler/hyde.git

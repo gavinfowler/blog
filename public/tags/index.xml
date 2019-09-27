@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gavin Fowler</title>
-    <link>http://example.org/tags/</link>
+    <link>https://gavinfowler.netlify.com/tags/</link>
     <description>Recent content in Tags on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gavinfowler.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elasticsearch</title>
-      <link>http://example.org/tags/elasticsearch/</link>
+      <link>https://gavinfowler.netlify.com/tags/elasticsearch/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/elasticsearch/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://example.org/tags/java/</link>
+      <link>https://gavinfowler.netlify.com/tags/java/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/java/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work</title>
-      <link>http://example.org/tags/work/</link>
+      <link>https://gavinfowler.netlify.com/tags/work/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/work/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>googleservices</title>
-      <link>http://example.org/tags/googleservices/</link>
+      <link>https://gavinfowler.netlify.com/tags/googleservices/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/googleservices/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/googleservices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS</title>
-      <link>http://example.org/tags/gps/</link>
+      <link>https://gavinfowler.netlify.com/tags/gps/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/gps/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/gps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reactnative</title>
-      <link>http://example.org/tags/reactnative/</link>
+      <link>https://gavinfowler.netlify.com/tags/reactnative/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/reactnative/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/reactnative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>running</title>
-      <link>http://example.org/tags/running/</link>
+      <link>https://gavinfowler.netlify.com/tags/running/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/running/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/running/</guid>
       <description></description>
     </item>
     
     <item>
       <title>restaurant</title>
-      <link>http://example.org/tags/restaurant/</link>
+      <link>https://gavinfowler.netlify.com/tags/restaurant/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/restaurant/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/restaurant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yelp</title>
-      <link>http://example.org/tags/yelp/</link>
+      <link>https://gavinfowler.netlify.com/tags/yelp/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/yelp/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/yelp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chromeExtension</title>
-      <link>http://example.org/tags/chromeextension/</link>
+      <link>https://gavinfowler.netlify.com/tags/chromeextension/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/chromeextension/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/chromeextension/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LaTeX</title>
-      <link>http://example.org/tags/latex/</link>
+      <link>https://gavinfowler.netlify.com/tags/latex/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/latex/</guid>
+      <guid>https://gavinfowler.netlify.com/tags/latex/</guid>
       <description></description>
     </item>
     

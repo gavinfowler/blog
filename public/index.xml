@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gavin Fowler</title>
-    <link>http://example.org/</link>
+    <link>https://gavinfowler.netlify.com/</link>
     <description>Recent content on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gavinfowler.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How I sped up searching by 800%</title>
-      <link>http://example.org/posts/elasticsearch/</link>
+      <link>https://gavinfowler.netlify.com/posts/elasticsearch/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/elasticsearch/</guid>
+      <guid>https://gavinfowler.netlify.com/posts/elasticsearch/</guid>
       <description>Recently I was able to work on the Elasticsearch integration on the project I am currently on at work. The application is a catalog of small satellite parts. It is a site where people who are building these small satellites can come explore the many different companies who are manufacturing these parts. It is a very interesting project to work on, sometimes it can be quite frustrating as well as rewarding.</description>
     </item>
     
     <item>
       <title>Running App</title>
-      <link>http://example.org/posts/workoutapp/</link>
+      <link>https://gavinfowler.netlify.com/posts/workoutapp/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/workoutapp/</guid>
+      <guid>https://gavinfowler.netlify.com/posts/workoutapp/</guid>
       <description>Link to my GitHub
 For the final project in my Mobile Development class, we were asked to create an app that would be able to track your exercise, specifically your runs.
 While coding this app I learned about many different packages and android APIs. Some of the packages I used were
@@ -34,20 +34,20 @@ While coding this app I learned about many different packages and android APIs. 
     
     <item>
       <title>Restaurant Picker</title>
-      <link>http://example.org/posts/restaurantpicker/</link>
+      <link>https://gavinfowler.netlify.com/posts/restaurantpicker/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/restaurantpicker/</guid>
+      <guid>https://gavinfowler.netlify.com/posts/restaurantpicker/</guid>
       <description>RestaurantPicker is an app to help people in groups decide where to eat.
 This app was developed for MIS 5700 at USU. The project was to create any sort of web-based service that could grow into a business. Most groups chose an Amazon-style website where things could be sold from either their company, who would make the products or the community, in a kind of Uber-style application. My team decided to do something different, create an application that would help groups of friends decide where to eat.</description>
     </item>
     
     <item>
       <title>LaTeX to HTML</title>
-      <link>http://example.org/posts/latextohtml/</link>
+      <link>https://gavinfowler.netlify.com/posts/latextohtml/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/latextohtml/</guid>
+      <guid>https://gavinfowler.netlify.com/posts/latextohtml/</guid>
       <description>Link to LaTeX to HTML
 One of the projects I recently undertook was a chrome extension that would accept LaTeX as input and output HTML code that would render the LaTeX in a nice format.
 At my job at the Space Dynamics Lab, I was able to do something similar. We had some units that we wanted to render in a pretty format, for example, if we had &amp;lsquo;sec/m^2&amp;rsquo; we could render it as:</description>
@@ -55,10 +55,10 @@ At my job at the Space Dynamics Lab, I was able to do something similar. We had 
     
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/</link>
+      <link>https://gavinfowler.netlify.com/about/</link>
       <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://gavinfowler.netlify.com/about/</guid>
       <description>I am a senior studying computer science at Utah State University. Some of my favorite classes have been Mobile Application Development, Operating Systems and concurrency, and Introduction to Landscape Architecture. During this last school year I worked on the following projects:
  RestaurantPicker A workout app  I currently work at the Space Dynamics Lab in Logan, UT as an engineering assistant. I am working on a Java web application with ExtJS on the front end.</description>
     </item>

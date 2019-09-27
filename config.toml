@@ -1,5 +1,5 @@
 staticDir = ["static"]
-baseURL = "http://example.org/"
+baseURL = "https://gavinfowler.netlify.com/"
 languageCode = "en-us"
 theme = "hyde"
 title = "Gavin Fowler"

@@ -1,0 +1,24 @@
+
+staticDir = ["static"]
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "hyde"
+title = "Gavin Fowler"
+[params]
+    disqusShortname = ""
+    googleAnalytics = ""
+    layoutReverse = true
+    theme = "hyde"
+    themeColor = "black"
+    textColor = "#ffffff"
+    description = "Software engineer, Gaming enthusiast, Amateur Curler, Musician"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "My Resume"
+    url = "/static/resume.pdf"
+    weight = 3

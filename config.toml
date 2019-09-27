@@ -1,4 +1,3 @@
-
 staticDir = ["static"]
 baseURL = "http://example.org/"
 languageCode = "en-us"

@@ -1,14 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Gavin Fowler</title>
     <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Gavin Fowler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Elasticsearch</title>
+      <link>http://example.org/tags/elasticsearch/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://example.org/tags/java/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://example.org/tags/work/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>googleservices</title>
+      <link>http://example.org/tags/googleservices/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/googleservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS</title>
+      <link>http://example.org/tags/gps/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/gps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reactnative</title>
+      <link>http://example.org/tags/reactnative/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/reactnative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>http://example.org/tags/running/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restaurant</title>
+      <link>http://example.org/tags/restaurant/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yelp</title>
+      <link>http://example.org/tags/yelp/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/yelp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chromeExtension</title>
+      <link>http://example.org/tags/chromeextension/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/chromeextension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>http://example.org/tags/latex/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/latex/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

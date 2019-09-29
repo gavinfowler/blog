@@ -11,13 +11,8 @@ title = "Gavin Fowler"
     themeColor = "black"
     textColor = "#ffffff"
     description = "Software engineer, Gaming enthusiast, Amateur Curler, Musician"
-
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-[[menu.main]]
-    name = "My Resume"
-    url = "/static/resume.pdf"
-    weight = 3
+    main = [
+        {Name = "About", URL = "/about", Newpage = 0 },
+        {Name = "My Resume", URL = "/static/resume.pdf", Newpage = true},
+        {Name = "Github", URL = "https://github.com/gavinfowler", Newpage = true},
+    ]

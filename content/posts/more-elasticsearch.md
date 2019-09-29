@@ -1,5 +1,5 @@
 ---
-title: "A more in depth look into Elasticsearch"
+title: "A more in-depth look into Elasticsearch"
 date: 2019-09-28
 tags: [Elasticsearch, Java, Work]
 ---

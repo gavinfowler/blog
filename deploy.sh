@@ -29,8 +29,3 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 echo -e "\033[0;32mChanges pushed\033[0m"
-
-# Trigger netlify build
-curl -X POST -d {} https://api.netlify.com/build_hooks/5d7bf76d8d171b0181af0a8b
-
-echo -e "\033[0;32mNetlify build triggered\033[0m"
